@@ -1,0 +1,8 @@
+Done:
+- SQLite Datenbank erstellen
+- Endpunkt erstellen (Gast fragt nach Zeitraum und bekommt freie Plätze zurück)
+
+Todo:
+-
+
+-- api/api.py zum ausführen der anwendung :]
